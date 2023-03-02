@@ -1,0 +1,16 @@
+
+
+
+<!-- Insert your name from your facebook page -->
+
+
+<!-- Insert your name from your instagram page -->
+
+
+<!-- Insert a real number plus country code -->
+, more information!
+
+.footer__copy
+
+
+.footer__privacy
